@@ -1,0 +1,3 @@
+[submodule "JavaScript-Things"]
+	path = JavaScript-Things
+	url = https://github.com/JaimeJangg/JavaScript-Things.git
